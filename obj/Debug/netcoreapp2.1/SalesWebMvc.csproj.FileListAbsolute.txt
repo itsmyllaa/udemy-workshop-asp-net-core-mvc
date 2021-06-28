@@ -7,7 +7,6 @@ C:\Users\camila.xavier.santos\Documents\ProjetosC\SalesWebMvc\bin\Debug\netcorea
 C:\Users\camila.xavier.santos\Documents\ProjetosC\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\Users\camila.xavier.santos\Documents\ProjetosC\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.Views.dll
 C:\Users\camila.xavier.santos\Documents\ProjetosC\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.Views.pdb
-C:\Users\camila.xavier.santos\Documents\ProjetosC\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csprojAssemblyReference.cache
 C:\Users\camila.xavier.santos\Documents\ProjetosC\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfoInputs.cache
 C:\Users\camila.xavier.santos\Documents\ProjetosC\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfo.cs
 C:\Users\camila.xavier.santos\Documents\ProjetosC\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
@@ -33,3 +32,5 @@ C:\Users\camila.xavier.santos\Documents\ProjetosC\SalesWebMvc\obj\Debug\netcorea
 C:\Users\camila.xavier.santos\Documents\ProjetosC\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\Users\camila.xavier.santos\Documents\ProjetosC\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 C:\Users\camila.xavier.santos\Documents\ProjetosC\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+C:\Users\camila.xavier.santos\Documents\ProjetosC\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csprojAssemblyReference.cache
+C:\Users\camila.xavier.santos\Documents\ProjetosC\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
