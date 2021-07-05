@@ -22,5 +22,11 @@ namespace SalesWebMvc.Services
             //Sellers acessa fonte da tabela de vendedores e converte para uma lista
             return _context.Seller.ToList();
         }
+
+        public void Insert(Seller obj)
+        {
+            _context.Add(obj);
+            _context.SaveChanges();
+        }
     }
 }
