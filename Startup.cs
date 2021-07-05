@@ -39,7 +39,7 @@ namespace SalesWebMvc
 
             services.AddDbContext<SalesWebMvcContext>(options =>
                     options.UseMySql(Configuration.GetConnectionString("SalesWebMvcContext"),builder => builder.MigrationsAssembly("SalesWebMvc")));
-
+            //O comando abaixo registra o serviço no sistema de injeção de dependência da aplicação 
             services.AddScoped<SeedingService>();
         }
 

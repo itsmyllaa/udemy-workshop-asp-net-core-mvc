@@ -16,11 +16,12 @@ namespace SalesWebMvc.Data
             _context = context;
         }
 
+        //operação abaixo responsável por popular a base de dados
         public void Seed()
         {
             if (_context.Department.Any() || _context.Seller.Any() || _context.SalesRecord.Any())
             {
-                return; //DB has been seeded
+                return; //DB has been seeded - BD já foi populado
             }
 
             Department d1 = new Department(1, "Computers");
@@ -65,7 +66,7 @@ namespace SalesWebMvc.Data
             SalesRecord r28 = new SalesRecord(28, new DateTime(2018, 10, 7), 4000.0, SaleStatus.Billed, s3);
             SalesRecord r29 = new SalesRecord(29, new DateTime(2018, 10, 23), 12000.0, SaleStatus.Billed, s5);
             SalesRecord r30 = new SalesRecord(30, new DateTime(2018, 10, 12), 5000.0, SaleStatus.Billed, s2);
-
+            //adicionando objetos no banco de dados usando o entity framework
             _context.Department.AddRange(d1, d2, d3, d4);
 
             _context.Seller.AddRange(s1, s2, s3, s4, s5, s6);
@@ -75,7 +76,7 @@ namespace SalesWebMvc.Data
                 r11, r12, r13, r14, r15, r16, r17, r18, r19, r20,
                 r21, r22, r23, r24, r25, r26, r27, r28, r29, r30
             );
-
+            //efetivando alterações no banco de dados
             _context.SaveChanges();
         }
     }
