@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "WTf+grSajK0P9uXXD6wQmZhgpyvlnwFTgvqZeOYzAzo4Qif2uJuee148Wn23X0zo5xxmp8lImnn1aPAFQYz6Xg==",
+  "dgSpecHash": "wOOb06dDUcPWd5xM5cBNehgSbpKo6Cp/zgV7KxcgvVD+C32is+RkejY21iSnnSq5IEQHCFQesBnaJV7wX0+65w==",
   "success": true,
   "projectFilePath": "C:\\Users\\camila.xavier.santos\\Documents\\ProjetosC\\SalesWebMvc\\SalesWebMvc.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\camila.xavier.santos\\.nuget\\packages\\jose-jwt\\3.2.0\\jose-jwt.3.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\camila.xavier.santos\\.nuget\\packages\\microsoft.aspnetcore\\2.1.7\\microsoft.aspnetcore.2.1.7.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.antiforgery\\2.1.1\\microsoft.aspnetcore.antiforgery.2.1.1.nupkg.sha512",
